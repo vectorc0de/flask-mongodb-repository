@@ -50,7 +50,7 @@ These instructions will get you a copy of the project up and running on your loc
     pip install -r requirements.txt
     ```
 
-## Running the application 🏃‍♀️
+## Running the application
 
 To run the application, execute the following command:
 
@@ -68,7 +68,7 @@ To run the tests, execute the following command:
 python -m unittest discover tests
 ```
 
-## API Endpoints 🎯
+## API Endpoints
 
 | Method | Endpoint | Description |
 | --- | --- | --- |
@@ -78,7 +78,7 @@ python -m unittest discover tests
 | `PUT` | `/jobs/<job_id>` | Updates a specific job posting. |
 | `DELETE` | `/jobs/<job_id>` | Deletes a specific job posting. |
 
-## Continuous Integration 🔄
+## Continuous Integration
 
 This project uses [GitHub Actions](https://github.com/features/actions) for Continuous Integration. The workflow is defined in `.github/workflows/main.yml`.
 
@@ -89,7 +89,7 @@ Every time you push to the `main` branch or create a pull request to `main`, the
 3.  The dependencies will be installed.
 4.  The tests will be run.
 
-## Built With 🛠️
+## Built With
 
 - [Flask](https://flask.palletsprojects.com/) - The web framework used.
 - [MongoEngine](http://mongoengine.org/) - The Object-Document Mapper (ODM) for MongoDB.
