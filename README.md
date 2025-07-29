@@ -1,8 +1,8 @@
-# Job Board API 🚀
+# Job Board API
 
 A simple and powerful RESTful API to manage job postings, built with Flask, MongoDB, and MongoEngine.
 
-## Features ✨
+## Features
 
 - **Create, Read, Update, and Delete (CRUD)** operations for job postings.
 - Built with **Flask** and **MongoEngine**.
@@ -11,7 +11,7 @@ A simple and powerful RESTful API to manage job postings, built with Flask, Mong
 - **CI/CD** with GitHub Actions.
 - Easy to set up and run.
 
-## Project Structure 🌳
+## Project Structure
 
 ```
 .
@@ -31,16 +31,12 @@ A simple and powerful RESTful API to manage job postings, built with Flask, Mong
 └── run.py
 ```
 
-## Getting Started 🏁
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites 📋
 
-- Python
-- MongoDB
-
-### Installation 🔧
+### Installation
 
 1.  **Clone the repository:**
 
@@ -64,7 +60,7 @@ python run.py
 
 The application will be running on `http://127.0.0.1:5000`.
 
-## Running the tests 🧪
+## Running the tests
 
 To run the tests, execute the following command:
 
